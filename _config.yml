@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:黄河远
-  email:1286851980@qq.com
-  twitter: 
+  name: 黄河远
+  email: 1286851980@qq.com
+  twitter: 河远
   google:
     ad-client:
     ad-slot:
-  bio: "黄河远 中大南方的学生"
+  bio: "黄河远，中大南方学生"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
