@@ -2,18 +2,18 @@
 
 - title: 作品集
   url: /portfolio/ 
-  excerpt: "个人作品集"
+  excerpt: "Personal portfolio"
   image: link.gif
   
 
 - title: 学习笔记
   url: /study/ 
-  excerpt: "个人作品集"
+  excerpt: "Learning notes"
   image: ming_ren.gif
   
 
-- title: Contact 联络我
+- title: 联络我
   url: /contact/
-  excerpt: "联络我"
+  excerpt: "Contact me"
   image: huo_ying.jpg
   
