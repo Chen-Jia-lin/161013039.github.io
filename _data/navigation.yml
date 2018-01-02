@@ -1,23 +1,28 @@
 # Site navigation links
 
+
+# Site navigation links
+
 - title: 作品集
   url: /portfolio/ 
   excerpt: "包含信息可视化作品集"
-  image: link.gif
+  image: zuopinji.gif
   
 
 - title: 学习笔记
   url: /study/ 
   excerpt: "个人网页设计和信息可视化学习笔记"
-  image: ming_ren.gif
+  image: xuexibiji.gif
   
 
   title: 参考文献
   url: /articles/
   excerpt: "网络上好的参考文献"
+  image: articles.jpg
+  
   
 - title: 关于我
   url: /contact/
   excerpt: "About me"
-  image: huo_ying.jpg
+  image: guanyuwo.gif
   
