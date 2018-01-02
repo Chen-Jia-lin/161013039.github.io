@@ -2,13 +2,13 @@
 
 - title: 作品集
   url: /portfolio/ 
-  excerpt: "Personal portfolio"
+  excerpt: "包含信息可视化作品集"
   image: link.gif
   
 
 - title: 学习笔记
   url: /study/ 
-  excerpt: "Learning notes"
+  excerpt: "个人网页设计和信息可视化学习笔记"
   image: ming_ren.gif
   
 
