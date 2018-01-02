@@ -12,6 +12,10 @@
   image: ming_ren.gif
   
 
+  title: 参考文献
+  url: /articles/
+  excerpt: "网络上好的参考文献"
+  
 - title: 关于我
   url: /contact/
   excerpt: "About me"
